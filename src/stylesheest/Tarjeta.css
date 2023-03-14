@@ -1,0 +1,56 @@
+.container{
+    width: 600px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 40px 10x;
+    margin: 50px auto;
+}
+
+.hero{
+    width: 600px;
+    border-radius: 10px;
+}
+
+.card-body{
+    margin: 30px;
+}
+
+.you{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.icon-music{
+    display: flex;
+    margin: 20px 130px;
+    background-color: rgba(217, 214, 214, 0.766);
+    border-radius: 10px;
+}
+
+.icon{
+    padding: 15px;
+}
+
+.p1{
+    padding: 20px;
+}
+
+.card2{
+    padding: 20px;
+}
+
+.boton1{
+    background-color: rgb(90, 97, 230);
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+ 
+.card3{
+    padding: 20px;
+}
+
